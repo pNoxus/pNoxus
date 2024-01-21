@@ -1,6 +1,5 @@
-- 👋 Oi eu sou o Noxus
+- 👋 Oi eu sou o Cros
 - 👀 Eu tenho iterrese em programação etc
-- 📫 Caso queria entrar em contato Discord Noxus#3588
+- 📫 Caso queria entrar em contato Discord: ncros
 
-Aprendendo Java!
-
+Desenvolvedor Java em aprendizado
